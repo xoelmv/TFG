@@ -23,7 +23,7 @@ El proyecto se centra en el **análisis cluster de series temporales**, específ
 
 ## 📁 Estructura del código
 
-El archivo principal `simulaciones.R` incluye:
+`simulaciones.R` incluye:
 
 - **Funciones auxiliares**: Cálculo de ACF, PACF, Piccolo, QAF
 - **Algoritmo FCMdC-QAF**: Implementación principal de clustering difuso
