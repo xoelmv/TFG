@@ -1,6 +1,6 @@
 # TFG: Time Series Fuzzy Clustering Project
 
-Este repositorio contiene el código R desarrollado para **clustering difuso de series temporales**, implementando diversos métodos de agrupamiento basados en diferentes métricas de similitud.
+Este repositorio contiene la memoria y el código R desarrollado para **clustering difuso de series temporales**, implementando diversos métodos de agrupamiento basados en diferentes métricas de similitud.
 
 ## 📋 Descripción
 
